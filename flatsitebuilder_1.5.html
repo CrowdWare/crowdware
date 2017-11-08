@@ -4,7 +4,7 @@
 <!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
 	<head>
 		<meta charset="utf-8" />
-<title>News</title>
+<title>FlatSiteBuilder 1.5 Released</title>
 <meta name="keywords" content="HTML5,CSS3,Template" />
 <meta name="description" content="" />
 <meta name="Author" content="Olaf Japp" />
@@ -25,9 +25,6 @@
 <link href="assets/css/animate.css" rel="stylesheet" type="text/css" />
 <link href="assets/css/superslides.css" rel="stylesheet" type="text/css" />
 
-<!-- REVOLUTION SLIDER -->
-<link href="assets/plugins/revolution-slider/css/settings.css" rel="stylesheet" type="text/css" />
-
 <!-- BLOG CSS -->
 <link href="assets/css/blog.css" rel="stylesheet" type="text/css" />
 
@@ -44,10 +41,12 @@
 <script type="text/javascript" src="assets/plugins/modernizr.min.js"></script>
 
 
+<link href="assets/plugins/animate/animate.css" rel="stylesheet" type="text/css"/>
 
 
 	</head>
 	<body>
+
 		<!-- TOP NAV -->
 <header id="topNav"><!-- remove class="topHead" if no topHead used! -->
 	<div class="container">
@@ -72,8 +71,8 @@
 												<li>
 				<a  href="about.html">About</a>
 			</li>
-												<li class="active">
-				<a  href="news.html">News</a>
+												<li>
+				<a  href="blog.html">Blog</a>
 			</li>
 								</ul>
 	</nav>
@@ -90,59 +89,62 @@
 	
 		<!-- WRAPPER -->
 <div id="wrapper">
-		
-<header id="page-title">
-	<div class="container">
-		<h1>CrowdWare News</h1>
-		<ul class="breadcrumb">
-			<li><a href="news.html">News</a></li>
-			<li class="active">News</li>
-		</ul>
-	</div>
-</header><section class="container">
+	<div id="blog">
+		<!-- PAGE TITLE -->
+		<header id="page-title">
+			<div class="container">
+				<h1>Crowdware News</h1>
+				<ul class="breadcrumb">
+					<li><a href="blog.html">Blog</a></li>
+					<li class="active">FlatSiteBuilder 1.5 Released</li>
+				</ul>
+			</div>
+		</header>
+		<section class="container">
+			<div class="row">
+				<div class="left col-md-9">
+
+					<!-- article title -->
+					<header class="blog-post">
+						<h1>FlatSiteBuilder 1.5 Released</h1>
+						<small class="fsize13">
+							<a href="#" class="scrollTo label label-default light"><i class="fa fa-user"></i> Olaf Japp</a>
+							<span class="label label-default light">2017-10-30</span> 
+						</small>
+					</header>
+					<article>
+						<section class="container">
 <div class="row">
-<div class="col-md-12">
-<!-- blog item -->
-<div class="item">
-	<!-- article title -->
-	<div class="item-title">
-	<h2><a href="animationmaker_1_7.html">AnimationMaker 1.7</a></h2>
-	<a href="#" class="scrollTo label label-default light"><i class="fa fa-user"></i> </a>
-	<span class="label label-default light">2017-10-24</span> 
-</div>
+<div class="col-md-4">
+<a href="https://artanidos.github.io/FlatSiteBuilder">
+<img src="assets/images/FlatSiteBuilder_thumb.png"  alt="" title="" class="img-responsive pull-left inner animated bounceInLeft">
+</a>
 
-<!-- blog short preview -->
-<p>
-AnimationMaker 1.7 about to be released soon....
+</div>
+<div class="col-md-8">
+<h3><strong>FlatSiteBuilder 1.5</strong> for Linux has been released</h3>
+<p class="lead">
+	Here are the changes we made the last weeks.
 </p>
-
-<!-- read more button -->
-<a href="animationmaker_1_7.html" class="btn btn-xs"><i class="fa fa-sign-out"></i> READ MORE</a>
-</div>
-<!-- /blog item -->
-<!-- blog item -->
-<div class="item">
-	<!-- article title -->
-	<div class="item-title">
-	<h2><a href="flatsitebuilder 1.4.6 released.html">FlatSiteBuilder 1.4.6 Released</a></h2>
-	<a href="#" class="scrollTo label label-default light"><i class="fa fa-user"></i> </a>
-	<span class="label label-default light">2017-10-24</span> 
-</div>
-
-<!-- blog short preview -->
-<p>
-FlatSiteBuilder 1.4.6 has been released .
-</p>
-
-<!-- read more button -->
-<a href="flatsitebuilder 1.4.6 released.html" class="btn btn-xs"><i class="fa fa-sign-out"></i> READ MORE</a>
-</div>
-<!-- /blog item -->
+<ul>
+	<li>Added the ability to add site variables in the site.xml file directly</li>
+	<li>Added the ability to add page variables in the xml files. For example <span style="font-family: courier">&lt;Content language="en"></span></li>
+	<li>Slider editor now renders additional attributes like (<span style="font-family: courier">"data-transition"</span>) which are not editable in plugin editor yet</li>
+	<li>Menuitems now supports additional attributes which are not editable in menu editor yet like <span style="font-family: courier">class="scrollTo"</span>
+    which can be used as <span style="font-family: courier">&lt;a &#123;&#123; item.attributes &#125;&#125; href=...</span> in a theme</li>
+	<li>ImageEditor now supports additional attributes which are not editable in the plugin editor yet like <span style="font-family: courier">data-animation="fadeIn"</span>
+    If an attribute with the class name is provided the original class will be overriden</li>
+	<li>Create wizard does now list all available themes</li>
+</ul>
 
 </div>
 </div>
 </section>
-	
+					</article>
+				</div>
+			</div>
+		</section>
+	</div>
 </div>
 <!-- /WRAPPER -->
 
@@ -240,13 +242,6 @@ FlatSiteBuilder 1.4.6 has been released .
 <script type="text/javascript" src="assets/plugins/superslides/dist/jquery.superslides.min.js"></script>
 <script type="text/javascript" src="assets/plugins/mediaelement/build/mediaelement-and-player.min.js"></script>
 
-<!-- REVOLUTION SLIDER -->
-<script type="text/javascript" src="assets/plugins/revolution-slider/js/jquery.themepunch.plugins.min.js"></script>
-<script type="text/javascript" src="assets/plugins/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
-<script type="text/javascript" src="assets/js/slider_revolution.js"></script>
-
-
-<script type="text/javascript" src="assets/js/scripts.js"></script>
 
 <!--script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -260,6 +255,7 @@ FlatSiteBuilder 1.4.6 has been released .
 </script-->
 
 
+<script type="text/javascript" src="assets/js/scripts.js"></script>
 
 
 	</body>
