@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg270"
-   width="230"
-   height="47"
-   viewBox="0 0 230 47"
+   width="220"
+   height="40"
+   viewBox="0 0 220 40"
    sodipodi:docname="banner.svg"
    inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
    inkscape:export-filename="/Users/user/SourceCode/crowdware/assets/images/banner.png"
@@ -86,7 +86,7 @@
      transform="translate(-98.752619,34.698492)">
     <g
        id="g707"
-       transform="matrix(0.12820605,0,0,0.12820605,132.27502,-21.788037)">
+       transform="matrix(0.1107137,0,0,0.1107137,129.90882,-23.549532)">
       <rect
          y="-48.096256"
          x="-74.398895"
@@ -253,24 +253,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:28.4372px;line-height:1.25;font-family:sans-serif;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.710929"
-       x="138.75043"
-       y="-8.9140797"
+       x="132.66341"
+       y="-11.062439"
        id="text711"><tspan
          sodipodi:role="line"
          id="tspan709"
-         x="138.75043"
-         y="-8.9140797"
+         x="132.66341"
+         y="-11.062439"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#333333;stroke-width:0.710929">CrowdWare</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:42.7502px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.06875"
-       x="139.20192"
-       y="7.1128101"
+       x="133.1149"
+       y="1.7419103"
        id="text715"><tspan
          sodipodi:role="line"
          id="tspan713"
-         x="139.20192"
-         y="7.1128101"
+         x="133.1149"
+         y="1.7419103"
          style="font-size:15.675px;fill:#999999;fill-opacity:1;stroke-width:1.06875">FreeWare for the crowd</tspan></text>
   </g>
 </svg>
