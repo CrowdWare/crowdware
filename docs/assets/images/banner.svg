@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg270"
-   width="251.78894"
-   height="47.119781"
-   viewBox="0 0 251.78894 47.119781"
+   width="230"
+   height="47"
+   viewBox="0 0 230 47"
    sodipodi:docname="banner.svg"
    inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
    inkscape:export-filename="/Users/user/SourceCode/crowdware/assets/images/banner.png"
@@ -252,25 +252,25 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:32.0968px;line-height:1.25;font-family:sans-serif;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.802419"
-       x="138.56638"
-       y="-7.55513"
+       style="font-style:normal;font-weight:normal;font-size:28.4372px;line-height:1.25;font-family:sans-serif;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.710929"
+       x="138.75043"
+       y="-8.9140797"
        id="text711"><tspan
          sodipodi:role="line"
          id="tspan709"
-         x="138.56638"
-         y="-7.55513"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#333333;stroke-width:0.802419">CrowdWare</tspan></text>
+         x="138.75043"
+         y="-8.9140797"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#333333;stroke-width:0.710929">CrowdWare</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:48.1005px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.20251"
-       x="139.01035"
-       y="7.8479981"
+       style="font-style:normal;font-weight:normal;font-size:42.7502px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.06875"
+       x="139.20192"
+       y="7.1128101"
        id="text715"><tspan
          sodipodi:role="line"
          id="tspan713"
-         x="139.01035"
-         y="7.8479981"
-         style="font-size:17.6368px;fill:#999999;fill-opacity:1;stroke-width:1.20251">FreeWare for the crowd</tspan></text>
+         x="139.20192"
+         y="7.1128101"
+         style="font-size:15.675px;fill:#999999;fill-opacity:1;stroke-width:1.06875">FreeWare for the crowd</tspan></text>
   </g>
 </svg>
