@@ -9,12 +9,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg270"
-   width="200"
-   height="36"
-   viewBox="0 0 200 36"
+   width="240"
+   height="45"
+   viewBox="0 0 240 45"
    sodipodi:docname="banner.svg"
    inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
-   inkscape:export-filename="/Users/user/SourceCode/crowdware/assets/images/banner.png"
+   inkscape:export-filename="/Users/user/SourceCode/crowdware/assets/images/logo.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -86,7 +86,7 @@
      transform="translate(-98.752619,34.698492)">
     <g
        id="g707"
-       transform="matrix(0.09322135,0,0,0.09322135,127.54262,-25.311027)">
+       transform="matrix(0.11869237,0,0,0.11869237,134.03161,-22.746075)">
       <rect
          y="-48.096256"
          x="-74.398895"
@@ -252,25 +252,25 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:24.833px;line-height:1.25;font-family:sans-serif;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.620825"
-       x="132.84467"
-       y="-14.400799"
+       style="font-style:normal;font-weight:normal;font-size:30.4888px;line-height:1.25;font-family:sans-serif;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.762219"
+       x="136.14082"
+       y="-11.584484"
        id="text711"><tspan
          sodipodi:role="line"
          id="tspan709"
-         x="132.84467"
-         y="-14.400799"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#333333;stroke-width:0.620825">CrowdWare</tspan></text>
+         x="136.14082"
+         y="-11.584484"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#333333;stroke-width:0.762219">CrowdWare</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:37.3163px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.932902"
-       x="133.30948"
-       y="-3.004765"
+       style="font-style:normal;font-weight:normal;font-size:45.4254px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.13563"
+       x="137.6739"
+       y="3.4804044"
        id="text715"><tspan
          sodipodi:role="line"
          id="tspan713"
-         x="133.30948"
-         y="-3.004765"
-         style="font-size:13.6825px;fill:#999999;fill-opacity:1;stroke-width:0.932902">FreeWare for the crowd</tspan></text>
+         x="137.6739"
+         y="3.4804044"
+         style="font-size:16.6558px;fill:#999999;fill-opacity:1;stroke-width:1.13563">FreeWare for the crowd</tspan></text>
   </g>
 </svg>
