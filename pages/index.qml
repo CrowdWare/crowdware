@@ -15,6 +15,7 @@ Content {
 
         RevolutionSlider {
             fullwidth: true
+
             Slide {
                 src: "/Users/user/SourceCode/crowdware/assets/images/happypeople.png"
                 adminlabel: "HappyPeople"
@@ -106,7 +107,7 @@ Content {
 	&lt;div class=&quot;box-content&quot;&gt;
 		&lt;i class=&quot;fa fa-flag-checkered&quot;&gt;&lt;/i&gt;
 		&lt;h4&gt;&lt;strong&gt;Free&lt;/strong&gt; Software&lt;/h4&gt;
-		&lt;p&gt;We develop the solution and deliver it for free as open source software to the crowd.&lt;/p&gt;
+		&lt;p&gt;We develop the solution and deliver it for free as open source to the crowd.&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
                     adminlabel: "Software"
