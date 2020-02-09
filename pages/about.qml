@@ -19,7 +19,7 @@ Content {
 		&lt;h1&gt;About &lt;strong&gt;Us&lt;/strong&gt;&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;About Us&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;About Me&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
 &lt;/header&gt;"
