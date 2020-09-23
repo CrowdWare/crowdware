@@ -50,6 +50,7 @@ Content {
 	To improve our products AnimationMaker, FlatSiteBuilder and EbookCreator and also new projects 
 	we are looking for help.
 &lt;/p&gt;
+
 &lt;p&gt;
 	Our applications are written in C/C++ and Python using Qt5 and run on &lt;strong&gt;Linux&lt;/strong&gt;. 
 	They are all open source and free to use.&lt;/br&gt;&lt;/br&gt;

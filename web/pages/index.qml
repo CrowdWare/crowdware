@@ -44,7 +44,8 @@ Content {
 	We are also going to create hardware solutions to create drinking water out of ocean or dirt water based on destillation, then we help to develop a magnet motor to create electricity for cars and houses and we will design solutions for tiny houses.
 	&lt;/br&gt;&lt;/br&gt;
 	We want everybody to be able to live a selfsustained life in peace and freedom on this wonderful planet.	
-&lt;/p&gt;"
+&lt;/p&gt;
+"
                 }
             }
         }

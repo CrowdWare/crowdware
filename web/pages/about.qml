@@ -36,13 +36,14 @@ Content {
                 Text {
                     text: "&lt;h1&gt;&lt;strong&gt;About&lt;/strong&gt; CrowdWare&lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	CrowdWare is a non profit organisation which has the goal to create individual, 
+	CrowdWare is a non profit assocition which has the goal to create individual, 
 	user centered, open source soft- and hardware solutions and deliver it for 
 	free (software) or at least very cheap (hardware) to the crowd.
 &lt;/p&gt;
 &lt;div class=&quot;divider&quot;&gt;
 	&lt;i class=&quot;fa fa-star&quot;&gt;&lt;/i&gt;
-&lt;/div&gt;"
+&lt;/div&gt;
+"
                 }
             }
         }
