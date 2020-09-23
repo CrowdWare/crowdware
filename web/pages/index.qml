@@ -124,19 +124,51 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h3&gt;&lt;strong&gt;Non Profit Statement&lt;/strong&gt;&lt;/h3&gt;
+                    text: "&lt;h3&gt;&lt;strong&gt;Membership&lt;/strong&gt;&lt;/h3&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	You are able to use our software for commercial reasons, 
-	but then you have to pay a small commercial license fee.
+	If you want to use our software for commercial reasons, 
+	you have to become a paying member of the CrowdWare e.V.
 &lt;/p&gt;
-&lt;p class=&quot;lead&quot;&gt;
-	Collecting license fees makes it easier for us to make the design 
-	phases possible.
-	We have still got the risk not to be funded at all and collecting 
-	license fees from business users makes it possible for us to 
-	survive even if a few projects will not be funded at all.
-&lt;/p&gt;"
-                    adminlabel: "Non Profit Statement"
+&lt;div class=&quot;row pricetable-container&quot;&gt;
+	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
+		&lt;h3&gt;BASIC&lt;/h3&gt;
+		&lt;p&gt;	
+			88,80 €
+			&lt;span&gt;Yearly&lt;/span&gt;
+		&lt;/p&gt;
+
+		&lt;ul&gt;
+		&lt;li&gt;You can use all software marked BASIC&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;a href=&quot;#&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTER&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-4 price-table popular&quot;&gt;
+		&lt;h3&gt;PREMIUM&lt;/h3&gt;
+		&lt;p&gt;	
+			888,- €
+			&lt;span&gt;Yearly&lt;/span&gt;
+		&lt;/p&gt;
+		&lt;ul&gt;
+			&lt;li&gt;You can use all software marked BASIC&lt;/li&gt;
+			&lt;li&gt;You can use all software marked PREMIUM&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;a href=&quot;&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTER&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
+		&lt;h3&gt;MASTER&lt;/h3&gt;
+		&lt;p&gt;	
+			8.880,- €
+			&lt;span&gt;Yearly&lt;/span&gt;
+		&lt;/p&gt;
+		&lt;ul class=&quot;pricetable-items&quot;&gt;
+			&lt;li&gt;You can use all software marked BASIC&lt;/li&gt;
+			&lt;li&gt;You can use all software marked PREMIUM&lt;/li&gt;
+			&lt;li&gt;You can use all software marked MASTER&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;a href=&quot;&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTER&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;"
+                    adminlabel: "membership"
                 }
             }
         }
@@ -195,7 +227,7 @@ Content {
 	this village for free. You only have to contribute your talents 
 	three hours a week to the community.
 &lt;/p&gt;"
-                    adminlabel: "Profit Donting"
+                    adminlabel: "Profit Donating"
                 }
             }
 
@@ -224,6 +256,7 @@ Content {
 	&lt;h3&gt;Do you want to &lt;strong&gt;help&lt;/strong&gt; to bring our applications further?&lt;a href=&quot;help_wanted.html&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;I AM IN&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
+                    adminlabel: "callout"
                 }
             }
         }
