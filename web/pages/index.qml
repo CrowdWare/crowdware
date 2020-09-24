@@ -141,7 +141,7 @@ Content {
 		&lt;ul&gt;
 		&lt;li&gt;You can use all software marked BASIC&lt;/li&gt;
 		&lt;/ul&gt;
-		&lt;a href=&quot;#&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTER&lt;/a&gt;
+		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTER&lt;/a&gt;
 	&lt;/div&gt;
 	&lt;div class=&quot;col-md-4 price-table popular&quot;&gt;
 		&lt;h3&gt;PREMIUM&lt;/h3&gt;
@@ -153,7 +153,7 @@ Content {
 			&lt;li&gt;You can use all software marked BASIC&lt;/li&gt;
 			&lt;li&gt;You can use all software marked PREMIUM&lt;/li&gt;
 		&lt;/ul&gt;
-		&lt;a href=&quot;&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTER&lt;/a&gt;
+		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTER&lt;/a&gt;
 	&lt;/div&gt;
 	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
 		&lt;h3&gt;MASTER&lt;/h3&gt;
@@ -166,7 +166,7 @@ Content {
 			&lt;li&gt;You can use all software marked PREMIUM&lt;/li&gt;
 			&lt;li&gt;You can use all software marked MASTER&lt;/li&gt;
 		&lt;/ul&gt;
-		&lt;a href=&quot;&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTER&lt;/a&gt;
+		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTER&lt;/a&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
                     adminlabel: "membership"
