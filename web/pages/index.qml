@@ -40,8 +40,10 @@ Content {
 	&lt;strong&gt;Welcome&lt;/strong&gt; to CrowdWare
 &lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	Our goal is to design, create and deliver free software to the crowd, based on your problems or ideas.
-	We are also going to create hardware solutions to create drinking water out of ocean or dirt water based on destillation, then we help to develop a magnet motor to create electricity for cars and houses and we will design solutions for tiny houses.
+	Our goal is to design, create and deliver free software to the crowd, based on 
+	your problems or ideas.
+	We are also going to create hardware solutions like solar destillation to create drink water,
+ 	magnet motor to create electricity and we will design solutions for tiny houses.
 	&lt;/br&gt;&lt;/br&gt;
 	We want everybody to be able to live a selfsustained life in peace and freedom on this wonderful planet.	
 &lt;/p&gt;
@@ -139,7 +141,7 @@ Content {
 		&lt;/p&gt;
 
 		&lt;ul&gt;
-		&lt;li&gt;You can use all software marked BASIC&lt;/li&gt;
+		&lt;li&gt;You can use all our software commercial&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTER&lt;/a&gt;
 	&lt;/div&gt;
@@ -147,27 +149,14 @@ Content {
 		&lt;h3&gt;PREMIUM&lt;/h3&gt;
 		&lt;p&gt;	
 			888,- €
-			&lt;span&gt;Yearly&lt;/span&gt;
+			&lt;span&gt;One Time&lt;/span&gt;
 		&lt;/p&gt;
 		&lt;ul&gt;
-			&lt;li&gt;You can use all software marked BASIC&lt;/li&gt;
-			&lt;li&gt;You can use all software marked PREMIUM&lt;/li&gt;
+			&lt;li&gt;You can use all software commercial&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTER&lt;/a&gt;
 	&lt;/div&gt;
-	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
-		&lt;h3&gt;MASTER&lt;/h3&gt;
-		&lt;p&gt;	
-			8.880,- €
-			&lt;span&gt;Yearly&lt;/span&gt;
-		&lt;/p&gt;
-		&lt;ul class=&quot;pricetable-items&quot;&gt;
-			&lt;li&gt;You can use all software marked BASIC&lt;/li&gt;
-			&lt;li&gt;You can use all software marked PREMIUM&lt;/li&gt;
-			&lt;li&gt;You can use all software marked MASTER&lt;/li&gt;
-		&lt;/ul&gt;
-		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTER&lt;/a&gt;
-	&lt;/div&gt;
+	
 &lt;/div&gt;"
                     adminlabel: "membership"
                 }
