@@ -130,7 +130,7 @@ Content {
                     text: "&lt;h3&gt;&lt;strong&gt;Membership&lt;/strong&gt;&lt;/h3&gt;
 &lt;p class=&quot;lead&quot;&gt;
 	If you want to use our software for commercial reasons, 
-	you have to become a paying member of the CrowdWare e.V.
+	you have to become a paying member of CrowdWare
 &lt;/p&gt;
 &lt;div class=&quot;row pricetable-container&quot;&gt;
 	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
@@ -206,7 +206,7 @@ Content {
 &lt;p class=&quot;lead&quot;&gt;
 	The profit will not be payed out to anyone of our team instead it 
 	will be donated to projects that are willing to make this world 
-	a better place for us.&lt;br/&gt;
+	a better place for us all.&lt;br/&gt;
 	One big goal is to create many &lt;a href=&quot;http://ubuntuplanet.org&quot;&gt;UBUNTU&lt;/a&gt; villages 
 	based on the ideas of &lt;strong&gt;Michael Tellinger&lt;/strong&gt; from South Afrika where 
 	people are working and living without the need to use money at all.
