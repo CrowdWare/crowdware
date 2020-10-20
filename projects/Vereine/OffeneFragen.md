@@ -1,4 +1,4 @@
-# Fragen
+# Offene Fragen
 
 # Vereinsrecht
 - Muss ich Mehrwertsteuer nehmen, wenn ich meinen Bio-Honig auf dem Markt verkaufe?
