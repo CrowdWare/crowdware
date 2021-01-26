@@ -130,8 +130,8 @@ Content {
                     text: "&lt;h3&gt;&lt;strong&gt;Membership&lt;/strong&gt;&lt;/h3&gt;
 &lt;p class=&quot;lead&quot;&gt;
 	If you want to help us to keep doing what we are doing, 
-    then you can become a extraordinary member and help with your membership fee.
-	You are also allowd to use our software commercially.
+    then you can become a extraordinary member and help with your membership fee.&lt;/br&gt;
+	As a member you are also allowed to use our software commercially.
 &lt;/p&gt;
 &lt;div class=&quot;row pricetable-container&quot;&gt;
 	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
