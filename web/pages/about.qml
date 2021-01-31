@@ -62,9 +62,9 @@ Content {
 							&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/olaf.jpg&quot; width=&quot;263&quot; height=&quot;263&quot; alt=&quot;&quot;/&gt;
 						&lt;/figure&gt;
 						&lt;div class=&quot;item-box-desc&quot;&gt;
-							&lt;h4&gt;Olaf Art Ananda&lt;/h4&gt;
+							&lt;h4&gt;Adam Art Ananda&lt;/h4&gt;
 							&lt;small class=&quot;styleColor&quot;&gt;PRESIDENT&lt;/small&gt;
-							&lt;p&gt;This association was the brainchild of Olaf while he was studying Human Computer Interaction Design in Switzerland&lt;/p&gt;
+							&lt;p&gt;This association was the brainchild of Art while he was studying Human Computer Interaction Design in Switzerland&lt;/p&gt;
 							&lt;div class=&quot;row socials&quot;&gt;
 								&lt;a href=&quot;http://facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a&gt;
 								&lt;a href=&quot;http://twitter.com/artanidos&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a&gt;
@@ -176,24 +176,6 @@ Content {
 			&lt;div class=&quot;item-box-desc&quot;&gt;
 				&lt;h4&gt;NRG-Exchange&lt;/h4&gt;
 				&lt;small class=&quot;styleColor&quot;&gt;2017&lt;/small&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 1 --&gt;
-		&lt;div class=&quot;item-box&quot;&gt;
-			&lt;figure&gt;
-				&lt;a class=&quot;item-hover&quot; href=&quot;http://www.ubucon.at&quot;&gt;
-					&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
-					&lt;span class=&quot;inner&quot;&gt;
-						&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
-						&lt;strong&gt;PROJECT&lt;/strong&gt; DETAIL
-					&lt;/span&gt;
-				&lt;/a&gt;
-				&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/ubucon.png&quot; width=&quot;260&quot; height=&quot;260&quot; alt=&quot;&quot;&gt;
-			&lt;/figure
-			&lt;div class=&quot;item-box-desc&quot;&gt;
-				&lt;h4&gt;UBUCON&lt;/h4&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;2020&lt;/small&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
