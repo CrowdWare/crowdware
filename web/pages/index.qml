@@ -41,9 +41,10 @@ Content {
 &lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
 	Our goal is to design, create and deliver free software to the crowd, based on 
-	your problems or ideas.
-	We are also going to create hardware solutions like solar destillation to create drink water,
- 	magnet motor to create electricity and we will design solutions for tiny houses.
+	your problems or ideas.&lt;/br&gt;
+	We are also going to create hardware solutions which helps to make this planet a better place.&lt;br&gt; 
+	We are thinking about solar destillation to create drinking water,
+ 	magnet motor to create electricity (if possible at all) and we will design solutions for tiny houses.
 	&lt;/br&gt;&lt;/br&gt;
 	We want everybody to be able to live a selfsustained life in peace and freedom on this wonderful planet.	
 &lt;/p&gt;

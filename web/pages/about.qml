@@ -36,7 +36,7 @@ Content {
                 Text {
                     text: "&lt;h1&gt;&lt;strong&gt;About&lt;/strong&gt; CrowdWare&lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	CrowdWare is a non profit assocition which has the goal to create individual, 
+	CrowdWare is an assocition which has the goal to create individual, 
 	user centered, open source soft- and hardware solutions and deliver it for 
 	free (software) or at least very cheap (hardware) to the crowd.
 &lt;/p&gt;
@@ -83,7 +83,43 @@ Content {
                 Text {
                     text: "&lt;h3&gt;Some of our projects&lt;/h3&gt;
 &lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 1 --&gt;
+		&lt;div class=&quot;item-box&quot;&gt;
+			&lt;figure&gt;
+				&lt;a class=&quot;item-hover&quot; href=&quot;https://github.com/CrowdWare/Atman&quot;&gt;
+					&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
+					&lt;span class=&quot;inner&quot;&gt;
+						&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
+						&lt;strong&gt;PROJECT&lt;/strong&gt; DETAIL
+					&lt;/span&gt;
+				&lt;/a&gt;
+				&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/atman.png&quot; width=&quot;260&quot; height=&quot;260&quot; alt=&quot;&quot;&gt;
+			&lt;/figure&gt;
+			&lt;div class=&quot;item-box-desc&quot;&gt;
+				&lt;h4&gt;ATMAN&lt;/h4&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;2022&lt;/small&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 2 --&gt;
+		&lt;div class=&quot;item-box&quot;&gt;
+			&lt;figure&gt;
 
+				&lt;a class=&quot;item-hover&quot; href=&quot;https://github.com/CrowdWare/CancerHealing&quot;&gt;
+					&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
+					&lt;span class=&quot;inner&quot;&gt;
+						&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
+						&lt;strong&gt;PROJECT&lt;/strong&gt; DETAIL
+					&lt;/span&gt;
+				&lt;/a&gt;
+				&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/cancerhealing.png&quot; width=&quot;260&quot; height=&quot;260&quot; alt=&quot;&quot;&gt;
+			&lt;/figure&gt;
+			&lt;div class=&quot;item-box-desc&quot;&gt;
+				&lt;h4&gt;CancerHealing&lt;/h4&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;2022&lt;/small&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
 	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 3 --&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
@@ -103,7 +139,7 @@ Content {
 		&lt;/div&gt;
 	&lt;/div&gt;
 
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 2 --&gt;
+	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 4 --&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
 				&lt;a class=&quot;item-hover&quot; href=&quot;https://github.com/Artanidos/EbookCreator&quot;&gt;
@@ -123,7 +159,7 @@ Content {
 	&lt;/div&gt;
 
 	
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 1 --&gt;
+	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 5 --&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
 				&lt;a class=&quot;item-hover&quot; href=&quot;https://artanidos.github.io/AnimationMaker/&quot;&gt;
@@ -142,7 +178,7 @@ Content {
 		&lt;/div&gt;
 	&lt;/div&gt;
 
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 2 --&gt;
+	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 6 --&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
 				&lt;a class=&quot;item-hover&quot; href=&quot;https://artanidos.github.io/FlatSiteBuilder/&quot;&gt;
@@ -161,7 +197,7 @@ Content {
 		&lt;/div&gt;
 	&lt;/div&gt;
 
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 3 --&gt;
+	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 7 --&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
 				&lt;a class=&quot;item-hover&quot; href=&quot;https://crowdware.github.io/nrg/&quot;&gt;

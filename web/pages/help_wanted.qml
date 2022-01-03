@@ -65,7 +65,7 @@ Content {
 &lt;p&gt;
 	Therefore I want to hire Python developers (Linux, Windows or MacOS), animators, testusers and marketeers.
 	Even If you are new to this field your work will be valuable. Maybe I can teach you a bit QT.
-	If you resonate with our ideas then don&#x27;t hasitate to contact &lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;us&lt;/a&gt;.
+	If you resonate with our ideas then don&#x27;t hasitate to contact &lt;a href=&quot;mailto:artanidos@crowdware.at&quot;&gt;us&lt;/a&gt;.
 &lt;/p&gt;
 &lt;p&gt;
 	At the moment we are not able to pay anyone but we will split up sales based on our already invested time.
