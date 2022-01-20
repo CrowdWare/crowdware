@@ -138,7 +138,7 @@ Content {
 	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
 		&lt;h3&gt;BASIC&lt;/h3&gt;
 		&lt;p&gt;	
-			88,80 €
+			99,94 €
 			&lt;span&gt;Yearly&lt;/span&gt;
 		&lt;/p&gt;
 
@@ -150,7 +150,7 @@ Content {
 	&lt;div class=&quot;col-md-4 price-table popular&quot;&gt;
 		&lt;h3&gt;PREMIUM&lt;/h3&gt;
 		&lt;p&gt;	
-			888,- €
+			999,40 €
 			&lt;span&gt;Yearly&lt;/span&gt;
 		&lt;/p&gt;
 		&lt;ul&gt;
@@ -161,7 +161,7 @@ Content {
 	&lt;div class=&quot;col-md-4 price-table popular&quot;&gt;
 		&lt;h3&gt;GOLD&lt;/h3&gt;
 		&lt;p&gt;	
-			8.880,- €
+			9.994,- €
 			&lt;span&gt;Yearly&lt;/span&gt;
 		&lt;/p&gt;
 		&lt;ul&gt;
