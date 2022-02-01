@@ -14,7 +14,7 @@ Menus {
             icon: ''
         }
         Menuitem {
-            title: 'Hilfe gesucht'
+            title: 'Hilfe erwünscht'
             url: 'help_wanted_de.html'
             icon: ''
         }

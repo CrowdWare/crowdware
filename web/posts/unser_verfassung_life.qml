@@ -2,7 +2,7 @@ import FlatSiteBuilder 2.0
 import TextEditor 1.0
 
 Content {
-    title: "Unser Verfassung (fast) Life"
+    title: "Unser Verfassung Life"
     menu: "default_de"
     author: "Olaf Japp"
     keywords: "animation,animated gif,mp4,mpg,avi"
@@ -39,7 +39,7 @@ Content {
 	solltest, weil dich der Stress hinrafft?
 &lt;/p&gt;
 &lt;p&gt;
-	Bitte schaue dir mal dieses &lt;a href=&quot;https://crowdware.github.io/UnsereVerfassung/&quot;&gt;Projekt&lt;/a&gt; auf deinem Handy an. Und cool wäre, wenn du auch gleich noch mit abstimmst.&lt;/br&gt;
+	Bitte schaue dir mal dieses &lt;a href=&quot;https://unsere-verfassung.de&quot;&gt;Projekt&lt;/a&gt; auf deinem Handy an. Und cool wäre, wenn du auch gleich noch mit abstimmst.&lt;/br&gt;
 	Danke &lt;3
 &lt;/p&gt;"
                 }

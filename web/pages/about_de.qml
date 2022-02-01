@@ -85,7 +85,7 @@ Content {
 	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 1 --&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
-				&lt;a class=&quot;item-hover&quot; href=&quot;https://crowdware.github.io/UnsereVerfassung/&quot;&gt;
+				&lt;a class=&quot;item-hover&quot; href=&quot;https://unsere-verfassung.de&quot;&gt;
 					&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
 					&lt;span class=&quot;inner&quot;&gt;
 						&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;

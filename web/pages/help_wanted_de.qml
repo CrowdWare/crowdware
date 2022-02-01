@@ -3,7 +3,7 @@ import TextEditor 1.0
 import ImageEditor 1.0
 
 Content {
-    title: "Help Wanted"
+    title: "Hilfe Erwünscht"
     menu: "default_de"
     author: "Olaf Japp"
     keywords: "animation,animated gif,mp4,mpg,avi"
@@ -17,10 +17,10 @@ Content {
             text: "&lt;!-- PAGE TITLE --&gt;
 &lt;header id=&quot;page-title&quot;&gt;
 	&lt;div class=&quot;container&quot;&gt;
-		&lt;h1&gt;&lt;strong&gt;Help&lt;/strong&gt; Wanted&lt;/h1&gt;
+		&lt;h1&gt;&lt;strong&gt;Hilfe&lt;/strong&gt; Erwünscht&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;Help Wanted&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;Hilfe Erwünscht&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
 &lt;/header&gt;"
@@ -45,32 +45,33 @@ Content {
                 span: 8
 
                 Text {
-                    text: "&lt;h1&gt;&lt;strong&gt;Help&lt;/strong&gt; Wanted&lt;/h1&gt;
+                    text: "&lt;h1&gt;&lt;strong&gt;Hilfe&lt;/strong&gt; Erwünscht&lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	To improve our products AnimationMaker, FlatSiteBuilder and EbookCreator and also new projects 
-	we are looking for help.
+	Um unsere Produkte AnimationMaker, FlatSiteBuilder, EbookCreator und auch neue Projekte zu verbessern, wünschen wir uns Deine Hilfe.
 &lt;/p&gt;
 
 &lt;p&gt;
-	Our applications are written in C/C++ and Python using Qt5 and run on &lt;strong&gt;Linux&lt;/strong&gt;. 
-	They are all open source and free to use.&lt;/br&gt;&lt;/br&gt;
-	And I am the only developer at the moment.
-	Because of the fact that I want to bring great, free to use applications to Linux I want your help today because my time is 
-	limited and I am not able to implement all the features on my own.
-	So I decided to also bring my apps to the commercial sector where we are able to get paid for what we are doing.
-	Commercial sector means to bring the apps also to &lt;strong&gt;Windows&lt;/strong&gt; and &lt;strong&gt;Mac Os&lt;/strong&gt;.
-	This will be a win-win situation. We as developers get paid and we are able to bring all of the new features to the open source
-	community (Linux) for free.
+	Unsere Applikationen sind in C/C++ und Python geschrieben und nutzen meist Qt5.
+	Sie laufen unter &lt;strong&gt;Linux&lt;/strong&gt;, &lt;strong&gt;Mac OS&lt;/strong&gt; und &lt;strong&gt;Windows&lt;/strong&gt;.
+	Alle Programme sind Open Source und frei zu nutzen.&lt;/br&gt;&lt;/br&gt;
+	Derzeit bin ich der einzige Entwickler.
+	Da meine Zeit begrenzt ist, wir aber große Dinge vor haben, wären ein paar helfende Hände sehr hilfreich.&lt;/br&gt;
+	So habe ich mich entschieden auch kommerzielle Software anzubieten, um etwas Geld in die Kasse zu spülen und dann
+	zusätzliche Entwickler bezahlen zu können. Das heißt zwar nicht, das wir Lizenzgebühren nehmen, aber wir motivieren die
+	Nutzer, dazu, Vereinsmitglied zu werden.&lt;/br&gt;
+	Somit haben wir eine Win-Win-Situation, da die Entwickler bezahlt werden und die nichtkommerziellen Nutzer die Software
+	weiterhin kostenlos nutzen können.
 &lt;/p&gt;
 &lt;p&gt;
-	Therefore I want to hire Python developers (Linux, Windows or MacOS), animators, testusers and marketeers.
-	Even If you are new to this field your work will be valuable. Maybe I can teach you a bit QT.
-	If you resonate with our ideas then don&#x27;t hasitate to contact &lt;a href=&quot;mailto:artanidos@crowdware.at&quot;&gt;us&lt;/a&gt;.
+	Aus diesem Grund wollen wir freie Entwickler (Linux, MacOS und Windows), Content-Entwickler, Testuser und Leute für das Marketing beschäftigen.
+	Selbst wenn Du Anfänger bist, findest Du bei uns einen Platz. Ich könnte Dir alles beibringen, was ich bisher gelernt und erfahren
+	habe in den letzten 35 Jahren in der IT.&lt;/br&gt;
+	Wenn Du damit in Resonanz gehen solltest, dann scheue Dich bitte nicht, Kontakt zu &lt;a href=&quot;mailto:artanidos@crowdware.at&quot;&gt;uns&lt;/a&gt; aufzunehmen.
 &lt;/p&gt;
 &lt;p&gt;
-	At the moment we are not able to pay anyone but we will split up sales based on our already invested time.
-	So each sale will be splitted until the development costs are payed out.
-	Additional profits will not be payed out but will be donated to social projects like I stated on the homepage.
+	Im Moment können wir zwar noch keine Löhne bezahlen, werden aber Verkäufe bzw. Mitgliedsbeiträge mit den Entwicklern teilen, 
+	bis die Entwicklungskosten gedeckt sind.&lt;/br&gt;
+	Profite die über die Entwicklungskosten hinaus reichen, werden wir an soziale Projekte spenden.
 &lt;/p&gt;"
                 }
             }
