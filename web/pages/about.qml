@@ -86,6 +86,22 @@ Content {
 	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 1 --&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
+				&lt;a class=&quot;item-hover&quot; href=&quot;https://crowdware.github.io/UnsereVerfassung/&quot;&gt;
+					&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
+					&lt;span class=&quot;inner&quot;&gt;
+						&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
+						&lt;strong&gt;PROJECT&lt;/strong&gt; DETAIL
+					&lt;/span&gt;
+				&lt;/a&gt;
+				&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/verfassung.png&quot; width=&quot;260&quot; height=&quot;260&quot; alt=&quot;&quot;&gt;
+			&lt;/figure&gt;
+			&lt;div class=&quot;item-box-desc&quot;&gt;
+				&lt;h4&gt;Unsere Verfassung&lt;/h4&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;2022&lt;/small&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;item-box&quot;&gt;
+			&lt;figure&gt;
 				&lt;a class=&quot;item-hover&quot; href=&quot;https://github.com/CrowdWare/Atman&quot;&gt;
 					&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
 					&lt;span class=&quot;inner&quot;&gt;

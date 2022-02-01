@@ -39,7 +39,7 @@ Content {
 	&lt;!-- article title --&gt;
 	&lt;div class=&quot;item-title&quot;&gt;
 	&lt;h2&gt;&lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/h2&gt;
-	&lt;a href=&quot;#&quot; class=&quot;scrollTo label label-default light&quot;&gt;&lt;i class=&quot;fa fa-user&quot;&gt;&lt;/i&gt; {{ post.author() }}&lt;/a&gt;
+	&lt;a href=&quot;#&quot; class=&quot;scrollTo label label-default light&quot;&gt;&lt;i class=&quot;fa fa-user&quot;&gt;&lt;/i&gt; {{ post.author }}&lt;/a&gt;
 	&lt;span class=&quot;label label-default light&quot;&gt;{{ post.date }}&lt;/span&gt; 
 &lt;/div&gt;
 
