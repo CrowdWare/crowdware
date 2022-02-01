@@ -3,7 +3,7 @@ import TextEditor 1.0
 
 Content {
     title: "Unser Verfassung (fast) Life"
-    menu: "default"
+    menu: "default_de"
     author: "Olaf Japp"
     keywords: "animation,animated gif,mp4,mpg,avi"
     layout: "post"
