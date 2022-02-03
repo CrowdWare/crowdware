@@ -138,7 +138,13 @@ Content {
 &lt;p class=&quot;lead&quot;&gt;
 	Wenn Du uns helfen möchtest, bei dem, was wir tun, dann lade ich Dich ein, 
 	außerordentliches Vereinsmitglied zu werden und mit Deinem Mitgliedsbeitrag zu helfen.&lt;/br&gt;
-	Als Mitglied darfst du unsere Software auch kommerziell nutzen.
+	Als Mitglied darfst du unsere Software auch kommerziell nutzen.&lt;/br&gt;
+	Zusätzlich bekommst du eine oder mehrere Subdomain, deren Inhalt du frei gestalten kannst, solange er nicht gegen 
+	geltendes Recht in Österreich verstößt.&lt;/br&gt;
+	Beispiel siehe hier: &lt;a target=&quot;_blank&quot; href=&quot;https://art.crowdware.at&quot;&gt;&lt;strong&gt;art&lt;/strong&gt;.crowdware.at&lt;/a&gt;&lt;/br&gt;
+	Den Inhalt kannst du mit unserem CMS &lt;a target=&quot;_blank&quot; href=&quot;https://artanidos.github.io/FlatSiteBuilder/&quot;&gt;FlatSiteBuilder&lt;/a&gt; erstellen 
+	und deine Webseite kann z.B. auf &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; kostenlos gehostet werden.&lt;/br&gt;
+	Siehe: &lt;a href=&quot;https://github.com/CrowdWare/art&quot;&gt;https://github.com/CrowdWare/art&lt;/a&gt;
 &lt;/p&gt;
 &lt;div class=&quot;row pricetable-container&quot;&gt;
 	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
@@ -150,6 +156,7 @@ Content {
 
 		&lt;ul&gt;
 		&lt;li&gt;Du wirst, wenn Du es denn wünscht, auf unser Webseite als Mitglied gelistet.&lt;/li&gt;
+		&lt;li&gt;1 Sub-Domain&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTRIERUNG&lt;/a&gt;
 	&lt;/div&gt;
@@ -161,6 +168,7 @@ Content {
 		&lt;/p&gt;
 		&lt;ul&gt;
 			&lt;li&gt;Du wirst, wenn Du es denn wünscht, auf unser Webseite als PREMIUM-Mitglied gelistet.&lt;/li&gt;
+			&lt;li&gt;13 Sub-Domains&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTRIERUNG&lt;/a&gt;
 	&lt;/div&gt;
@@ -172,6 +180,7 @@ Content {
 		&lt;/p&gt;
 		&lt;ul&gt;
 			&lt;li&gt;Du wirst auf unser Webseite als GOLD-Mitglied gelistet.&lt;/li&gt;
+			&lt;li&gt;130 Sub-Domain&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTRIERUNG&lt;/a&gt;
 	&lt;/div&gt;

@@ -133,7 +133,12 @@ Content {
 &lt;p class=&quot;lead&quot;&gt;
 	If you want to help us to keep doing what we are doing, 
     then you can become a extraordinary member and help with your membership fee.&lt;/br&gt;
-	As a member you are also allowed to use our software commercially.
+	As a member you are also allowed to use our software commercially.&lt;/a&gt;&lt;/br&gt;
+	Additionally you will get one or more sub domain(s), where you can create your own content, as long it is not violating the law in Austria.&lt;/br&gt;
+	A sample you can see here: &lt;a target=&quot;_blank&quot; href=&quot;https://art.crowdware.at&quot;&gt;&lt;strong&gt;art&lt;/strong&gt;.crowdware.at&lt;/a&gt;&lt;/br&gt;
+	You can create your content using our CMS &lt;a target=&quot;_blank&quot; href=&quot;https://artanidos.github.io/FlatSiteBuilder/&quot;&gt;FlatSiteBuilder&lt;/a&gt; 
+	and you can host your content on &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; for free.&lt;/br&gt;
+	See here: &lt;a href=&quot;https://github.com/CrowdWare/art&quot;&gt;https://github.com/CrowdWare/art&lt;/a&gt;
 &lt;/p&gt;
 &lt;div class=&quot;row pricetable-container&quot;&gt;
 	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
@@ -145,6 +150,7 @@ Content {
 
 		&lt;ul&gt;
 		&lt;li&gt;You will be listed as a member on this website&lt;br/&gt;(if you like).&lt;/li&gt;
+		&lt;li&gt;1 Sub-domain&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTER&lt;/a&gt;
 	&lt;/div&gt;
@@ -156,6 +162,7 @@ Content {
 		&lt;/p&gt;
 		&lt;ul&gt;
 			&lt;li&gt;You will be listed as a PREMIUM member on this website (if you like).&lt;/li&gt;
+			&lt;li&gt;13 Sub-domain&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTER&lt;/a&gt;
 	&lt;/div&gt;
@@ -167,6 +174,7 @@ Content {
 		&lt;/p&gt;
 		&lt;ul&gt;
 			&lt;li&gt;You will be listed as a GOLD member on this website (if you like).&lt;/li&gt;
+			&lt;li&gt;130 Sub-domain&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTER&lt;/a&gt;
 	&lt;/div&gt;
