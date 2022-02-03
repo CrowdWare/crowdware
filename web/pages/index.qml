@@ -9,6 +9,7 @@ Content {
     author: "Olaf"
     layout: "default"
     date: "2020-01-23"
+    language: "en"
 
     Section {
         fullwidth: true

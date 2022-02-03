@@ -8,6 +8,7 @@ Site {
    keywords: 'animation,animated gif,mp4,mpg,avi'
    author: 'Olaf Japp'
    logo: 'logo.png'
+   language: 'de'
    publisher: 'GithubPublisher'
    output: '../docs'
 }

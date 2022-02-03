@@ -24,6 +24,11 @@ Menus {
             icon: ''
         }
         Menuitem {
+            title: 'Impressum'
+            url: 'impressum_de.html'
+            icon: ''
+        }
+        Menuitem {
             title: 'Deutsch'
             url: '#'
             icon: 'assets/images/flags/us.png'
@@ -59,6 +64,11 @@ Menus {
         Menuitem {
             title: 'Blog'
             url: 'blog.html'
+            icon: ''
+        }
+        Menuitem {
+            title: 'Impressum'
+            url: 'impressum.html'
             icon: ''
         }
         Menuitem {

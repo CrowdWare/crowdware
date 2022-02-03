@@ -8,6 +8,7 @@ Content {
     keywords: "animation,animated gif,mp4,mpg,avi"
     layout: "default"
     date: "2020-01-23"
+	language: "en"
 
     Section {
         fullwidth: true
