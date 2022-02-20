@@ -66,7 +66,8 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;p class=&quot;mt-5&quot;&gt;
+                    text: "&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
 	And I am the only developer at the moment.
 	Because of the fact that I want to bring great, free to use applications to Linux I want your help today because my time is 
 	limited and I am not able to implement all the features on my own.

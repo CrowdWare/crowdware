@@ -65,7 +65,8 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;p&gt;
+                    text: "&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
 	Derzeit bin ich der einzige Entwickler.
 	Da meine Zeit begrenzt ist, wir aber große Dinge vor haben, wären ein paar helfende Hände sehr hilfreich.&lt;/br&gt;
 	So habe ich mich entschieden auch kommerzielle Software anzubieten, um etwas Geld in die Kasse zu spülen und dann
