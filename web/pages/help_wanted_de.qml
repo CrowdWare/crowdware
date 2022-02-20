@@ -1,6 +1,5 @@
 import FlatSiteBuilder 2.0
 import TextEditor 1.0
-import ImageEditor 1.0
 
 Content {
     title: "Hilfe Erwünscht"
@@ -33,17 +32,16 @@ Content {
         Row {
 
             Column {
-                span: 4
+                span: 6
 
-                Image {
-                    src: "help.jpg"
-                    animation: "slideInLeft"
-                    animation_type: "Sliding Entrances"
+                Text {
+                    text: "&lt;iframe src=&quot;https://www.youtube.com/embed/Yr1YcElKnWE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;
+&lt;/iframe&gt;"
                 }
             }
 
             Column {
-                span: 8
+                span: 6
 
                 Text {
                     text: "&lt;h1&gt;&lt;strong&gt;Hilfe&lt;/strong&gt; Erwünscht&lt;/h1&gt;
@@ -54,7 +52,20 @@ Content {
 &lt;p&gt;
 	Unsere Applikationen sind in C/C++ und Python geschrieben und nutzen meist Qt5.
 	Sie laufen unter &lt;strong&gt;Linux&lt;/strong&gt;, &lt;strong&gt;Mac OS&lt;/strong&gt; und &lt;strong&gt;Windows&lt;/strong&gt;.
-	Alle Programme sind Open Source und frei zu nutzen.&lt;/br&gt;&lt;/br&gt;
+	Alle Programme sind Open Source und frei zu nutzen.
+&lt;/p&gt;
+"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;p&gt;
 	Derzeit bin ich der einzige Entwickler.
 	Da meine Zeit begrenzt ist, wir aber große Dinge vor haben, wären ein paar helfende Hände sehr hilfreich.&lt;/br&gt;
 	So habe ich mich entschieden auch kommerzielle Software anzubieten, um etwas Geld in die Kasse zu spülen und dann

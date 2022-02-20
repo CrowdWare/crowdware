@@ -1,6 +1,5 @@
 import FlatSiteBuilder 2.0
 import TextEditor 1.0
-import ImageEditor 1.0
 
 Content {
     title: "Help Wanted"
@@ -33,17 +32,17 @@ Content {
         Row {
 
             Column {
-                span: 4
+                span: 6
 
-                Image {
-                    src: "help.jpg"
-                    animation: "slideInLeft"
-                    animation_type: "Sliding Entrances"
+                Text {
+                    text: "&lt;iframe src=&quot;https://www.youtube.com/embed/Yr1YcElKnWE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;
+&lt;/iframe&gt;"
+                    adminlabel: "Video"
                 }
             }
 
             Column {
-                span: 8
+                span: 6
 
                 Text {
                     text: "&lt;h1&gt;&lt;strong&gt;Help&lt;/strong&gt; Wanted&lt;/h1&gt;
@@ -54,7 +53,20 @@ Content {
 
 &lt;p&gt;
 	Our applications are written in C/C++ and Python using Qt5 and run on &lt;strong&gt;Linux&lt;/strong&gt;. 
-	They are all open source and free to use.&lt;/br&gt;&lt;/br&gt;
+	They are all open source and free to use.
+&lt;/p&gt;
+"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;p class=&quot;mt-5&quot;&gt;
 	And I am the only developer at the moment.
 	Because of the fact that I want to bring great, free to use applications to Linux I want your help today because my time is 
 	limited and I am not able to implement all the features on my own.

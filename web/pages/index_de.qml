@@ -42,7 +42,7 @@ Content {
 &lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
 	Unser Ziel is es Software für die Menschheit zu designen und als freie Open Source Software 
-	auf den Markt zu bringen. Als Basis hierfütr dienen eure Probleme und Idee.&lt;/br&gt;
+	auf den Markt zu bringen. Als Basis hierfür dienen eure Probleme und Idee.&lt;/br&gt;
 	Wir wollen auch Gegenstände und Maschinen bauen, die uns helfen diesen Planeten wieder zu einem besseren Ort zu machen.&lt;/br&gt;
 	Wir denken zum Beispiel über die Trinkwasser-Produktion mit Hilfe der Sonnenenergie und der Destilation nach.
 	Ja, man kann destiliertes Wasser trinken und es ist gesund.&lt;/br&gt;
