@@ -8,7 +8,7 @@ Content {
     keywords: "animation,animated gif,mp4,mpg,avi"
     layout: "default"
     date: "2020-01-23"
-	language: "de"
+    language: "de"
 
     Section {
         fullwidth: true
@@ -197,9 +197,9 @@ Content {
 	&lt;/div&gt;
 
 	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 6 --&gt;
-		&lt;div class=&quot;item-box&quot;&gt;
+		&lt;div class=&quot;item-box&quot;
 			&lt;figure&gt;
-				&lt;a class=&quot;item-hover&quot; href=&quot;https://artanidos.github.io/FlatSiteBuilder/&quot;&gt;
+				&lt;a class=&quot;item-hover&quot; href=&quot;https://fsb.crowdware.at&quot;&gt;
 					&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
 					&lt;span class=&quot;inner&quot;&gt;
 						&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;

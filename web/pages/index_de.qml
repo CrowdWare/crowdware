@@ -144,7 +144,11 @@ Content {
 	Beispiel siehe hier: &lt;a target=&quot;_blank&quot; href=&quot;https://art.crowdware.at&quot;&gt;&lt;strong&gt;art&lt;/strong&gt;.crowdware.at&lt;/a&gt;&lt;/br&gt;
 	Den Inhalt kannst du mit unserem CMS &lt;a target=&quot;_blank&quot; href=&quot;https://artanidos.github.io/FlatSiteBuilder/&quot;&gt;FlatSiteBuilder&lt;/a&gt; erstellen 
 	und deine Webseite kann z.B. auf &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; kostenlos gehostet werden.&lt;/br&gt;
-	Siehe: &lt;a href=&quot;https://github.com/CrowdWare/art&quot;&gt;https://github.com/CrowdWare/art&lt;/a&gt;
+	Siehe: &lt;a href=&quot;https://github.com/CrowdWare/art&quot;&gt;https://github.com/CrowdWare/art&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
+	Wenn du Mitglied wirst, erhältst du außerdem kostenlos eine von uns gestaltete persönliche Website. 
+	Die Landingpage und das Impressum.&lt;/br&gt;
+	Du bringst die Bilder und den Text und wir erstellen die Webseite mit unserem CMS FlatSiteBuilder.&lt;/br&gt;
+	Später kannst Du mit dem FlatSiteBuilder Deine Webseite selbst bearbeiten.&lt;/br&gt;
 &lt;/p&gt;
 &lt;div class=&quot;row pricetable-container&quot;&gt;
 	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
@@ -157,6 +161,7 @@ Content {
 		&lt;ul&gt;
 		&lt;li&gt;Du wirst, wenn Du es denn wünscht, auf unser Webseite als Mitglied gelistet.&lt;/li&gt;
 		&lt;li&gt;1 Sub-Domain&lt;/li&gt;
+		&lt;li&gt;1 Webseite (max 3 Stunden)&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTRIERUNG&lt;/a&gt;
 	&lt;/div&gt;
@@ -169,6 +174,7 @@ Content {
 		&lt;ul&gt;
 			&lt;li&gt;Du wirst, wenn Du es denn wünscht, auf unser Webseite als PREMIUM-Mitglied gelistet.&lt;/li&gt;
 			&lt;li&gt;13 Sub-Domains&lt;/li&gt;
+			&lt;li&gt;1 Webseite (max 10 Stunden)&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTRIERUNG&lt;/a&gt;
 	&lt;/div&gt;
@@ -181,6 +187,7 @@ Content {
 		&lt;ul&gt;
 			&lt;li&gt;Du wirst auf unser Webseite als GOLD-Mitglied gelistet.&lt;/li&gt;
 			&lt;li&gt;130 Sub-Domain&lt;/li&gt;
+			&lt;li&gt;1 Webseite (max 30 Stunden)&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTRIERUNG&lt;/a&gt;
 	&lt;/div&gt;

@@ -138,7 +138,10 @@ Content {
 	A sample you can see here: &lt;a target=&quot;_blank&quot; href=&quot;https://art.crowdware.at&quot;&gt;&lt;strong&gt;art&lt;/strong&gt;.crowdware.at&lt;/a&gt;&lt;/br&gt;
 	You can create your content using our CMS &lt;a target=&quot;_blank&quot; href=&quot;https://artanidos.github.io/FlatSiteBuilder/&quot;&gt;FlatSiteBuilder&lt;/a&gt; 
 	and you can host your content on &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; for free.&lt;/br&gt;
-	See here: &lt;a href=&quot;https://github.com/CrowdWare/art&quot;&gt;https://github.com/CrowdWare/art&lt;/a&gt;
+	See here: &lt;a href=&quot;https://github.com/CrowdWare/art&quot;&gt;https://github.com/CrowdWare/art&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
+	If you become a member you will also get a personal website designed by us for free. The landingpage and imprint.&lt;/br&gt;
+	You bring the pictures and the text and we will create the website using our CMS FlatSiteBuilder.&lt;/br&gt;
+	Later you can use the FlatSiteBuilder to edit your website on your own.&lt;/br&gt;
 &lt;/p&gt;
 &lt;div class=&quot;row pricetable-container&quot;&gt;
 	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
@@ -151,6 +154,7 @@ Content {
 		&lt;ul&gt;
 		&lt;li&gt;You will be listed as a member on this website&lt;br/&gt;(if you like).&lt;/li&gt;
 		&lt;li&gt;1 Sub-domain&lt;/li&gt;
+		&lt;li&gt;1 Website (max 3 hours)&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-primary btn-sm&quot;&gt;REGISTER&lt;/a&gt;
 	&lt;/div&gt;
@@ -163,6 +167,7 @@ Content {
 		&lt;ul&gt;
 			&lt;li&gt;You will be listed as a PREMIUM member on this website (if you like).&lt;/li&gt;
 			&lt;li&gt;13 Sub-domain&lt;/li&gt;
+			&lt;li&gt;1 Website (max 10 hours)&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTER&lt;/a&gt;
 	&lt;/div&gt;
@@ -175,6 +180,7 @@ Content {
 		&lt;ul&gt;
 			&lt;li&gt;You will be listed as a GOLD member on this website (if you like).&lt;/li&gt;
 			&lt;li&gt;130 Sub-domain&lt;/li&gt;
+			&lt;li&gt;1 Website (max 30 hours)&lt;/li&gt;
 		&lt;/ul&gt;
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTER&lt;/a&gt;
 	&lt;/div&gt;

@@ -31,7 +31,7 @@ Menus {
         Menuitem {
             title: 'Deutsch'
             url: '#'
-            icon: 'assets/images/flags/us.png'
+            icon: 'assets/images/flags/de.png'
             Menuitem {
                 title: '[US] English'
                 url: 'index.html'
