@@ -38,7 +38,7 @@ Menus {
                 icon: 'assets/images/flags/us.png'
             }
             Menuitem {
-                title: 'DE] Deutsch'
+                title: 'Deutsch'
                 url: '#'
                 icon: 'assets/images/flags/de.png'
             }
@@ -81,7 +81,7 @@ Menus {
                 icon: 'assets/images/flags/us.png'
             }
             Menuitem {
-                title: 'DE] Deutsch'
+                title: 'Deutsch'
                 url: 'index_de.html'
                 icon: 'assets/images/flags/de.png'
             }

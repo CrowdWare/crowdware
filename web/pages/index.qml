@@ -140,8 +140,7 @@ Content {
 	and you can host your content on &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; for free.&lt;/br&gt;
 	See here: &lt;a href=&quot;https://github.com/CrowdWare/art&quot;&gt;https://github.com/CrowdWare/art&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
 	If you become a member you will also get a personal website designed by us for free. The landingpage and imprint.&lt;/br&gt;
-	You bring the pictures and the text and we will create the website using our CMS FlatSiteBuilder.&lt;/br&gt;
-	Later you can use the FlatSiteBuilder to edit your website on your own.&lt;/br&gt;
+	For detail have a look &lt;a href=&quot;website.html&quot;&gt;here&lt;/a&gt;.
 &lt;/p&gt;
 &lt;div class=&quot;row pricetable-container&quot;&gt;
 	&lt;div class=&quot;col-md-4 price-table&quot;&gt;

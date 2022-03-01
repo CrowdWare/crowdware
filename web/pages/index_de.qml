@@ -51,7 +51,8 @@ Content {
 	Auch wollen wir erschwingliche Tiny-Häuser entwickeln, damit wir alle bald keine Mieten mehr zahlen müssen.
 
 	&lt;/br&gt;&lt;/br&gt;
-	Wir wollen das jeder Mensch auf dieser Erde ein selbstversorgendes Leben in Frieden und Freiheit auf diesem wundervollen Planeten leben kann. 
+	Wir wollen das jeder Mensch auf dieser Erde ein selbstversorgendes Leben in Frieden und Freiheit auf diesem wundervollen 
+	Planeten leben kann. 
 &lt;/p&gt;
 "
                     adminlabel: "Willkommen"
@@ -147,8 +148,7 @@ Content {
 	Siehe: &lt;a href=&quot;https://github.com/CrowdWare/art&quot;&gt;https://github.com/CrowdWare/art&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;
 	Wenn du Mitglied wirst, erhältst du außerdem kostenlos eine von uns gestaltete persönliche Website. 
 	Die Landingpage und das Impressum.&lt;/br&gt;
-	Du bringst die Bilder und den Text und wir erstellen die Webseite mit unserem CMS FlatSiteBuilder.&lt;/br&gt;
-	Später kannst Du mit dem FlatSiteBuilder Deine Webseite selbst bearbeiten.&lt;/br&gt;
+	Details findest du &lt;a href=&quot;website_de.html&quot;&gt;hier&lt;/a&gt;.
 &lt;/p&gt;
 &lt;div class=&quot;row pricetable-container&quot;&gt;
 	&lt;div class=&quot;col-md-4 price-table&quot;&gt;
