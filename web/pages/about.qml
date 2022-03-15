@@ -159,7 +159,7 @@ Content {
 	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 4 --&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
-				&lt;a class=&quot;item-hover&quot; href=&quot;https://github.com/Artanidos/EbookCreator&quot;&gt;
+				&lt;a class=&quot;item-hover&quot; href=&quot;https://ebc.crowdware.at&quot;&gt;
 					&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
 					&lt;span class=&quot;inner&quot;&gt;
 						&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
