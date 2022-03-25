@@ -135,7 +135,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h3&gt;&lt;strong&gt;Membership&lt;/strong&gt;&lt;/h3&gt;
+                    text: "&lt;h3&gt;&lt;strong&gt;Mitgliedschaft&lt;/strong&gt;&lt;/h3&gt;
 &lt;p class=&quot;lead&quot;&gt;
 	Wenn Du uns helfen möchtest, bei dem, was wir tun, dann lade ich Dich ein, 
 	außerordentliches Vereinsmitglied zu werden und mit Deinem Mitgliedsbeitrag zu helfen.&lt;/br&gt;
@@ -192,7 +192,7 @@ Content {
 		&lt;a href=&quot;http://eepurl.com/hejH55&quot; class=&quot;btn btn-default btn-sm&quot;&gt;REGISTRIERUNG&lt;/a&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "membership"
+                    adminlabel: "Mitgliedschaft"
                 }
             }
         }
@@ -245,7 +245,11 @@ Content {
 	Die Menschen in diesen Dörfern leben dort ohne Geld, ohne Tausch und ohne Handel in Fülle.
 	Diese Orte sind Selbstversorger. Sie produzieren dort alles, was sie benötigen.
 	Niemand dort muss für etwas bezahlen. Alles wird den Menschen dort kostenlos gegeben und jeder Mensch bringt
-	sich dort mit seinen Talenten ein. Du musst lediglich deine Talente für 3 Stunden pro Woche dort einsetzen.
+	sich dort mit seinen Talenten ein. Du musst lediglich deine Talente für 3 Stunden pro Woche dort einsetzen.  
+&lt;/p&gt;
+&lt;p class=&quot;lead&quot;&gt;
+	Hier in Deutschland nennt man soetwas &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://move-utopia.de/de/infos/tauschlogikwas&quot;&gt;Tausch-Logik-Frei&lt;/a&gt;&lt;/strong&gt; 
+	oder auch &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://de.wikipedia.org/wiki/Schenk%C3%B6konomie&quot;&gt;Schenk-Ökonomie&lt;/a&gt;&lt;/strong&gt;.
 &lt;/p&gt;"
                     adminlabel: "Profit Donating"
                 }
