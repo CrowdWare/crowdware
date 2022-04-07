@@ -238,19 +238,15 @@ Content {
                 Text {
                     text: "&lt;h3 class=&quot;margin-top100&quot;&gt;&lt;strong&gt;Gewinne&lt;/strong&gt; werden gespendet&lt;/h3&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	Die Gewinne werden nicht an irgendwen ausgezahlt.
-	Stattdessen spenden wir sie an Projekte, die auch diesen Planeten mit ihrer Arbeit unterstützen.&lt;br/&gt;
-	Ein großes Ziel von uns ist es viele &lt;a href=&quot;http://ubuntuplanet.org&quot;&gt;UBUNTU&lt;/a&gt;-Dörfer basierend
-	auf der Idee von &lt;strong&gt;Michael Tellinger&lt;/strong&gt; aus Süd-Afrika zu erschaffen.
-	Die Menschen in diesen Dörfern leben dort ohne Geld, ohne Tausch und ohne Handel in Fülle.
-	Diese Orte sind Selbstversorger. Sie produzieren dort alles, was sie benötigen.
-	Niemand dort muss für etwas bezahlen. Alles wird den Menschen dort kostenlos gegeben und jeder Mensch bringt
-	sich dort mit seinen Talenten ein. Du musst lediglich deine Talente für 3 Stunden pro Woche dort einsetzen.  
+	Die Gewinne werden an niemanden aus unserem Team ausgezahlt, stattdessen werden sie an Projekte gespendet, 
+	die bereit sind, diese Welt neu zu gestalten um sie zu einem besserer Ort für uns alle zu machen.&lt;br/&gt;&lt;/br&gt;
+	Ein großes Ziel ist es, Land aufzukaufen, um es vor Spekulationen zu schützen.&lt;/br&gt;
+	Dort sollen kleine Dörfer mit Tiny-Houses, geodätischen Domen, Jurten und dergleichen, entstehen, in denen unsere Mitglieder kostenlos wohnen können.&lt;/br&gt;
+	Die Idee stammt von der UBUNTU-Bewegung aus Südafrika, wo die Menschen ohne Geld, ohne Tausch und ohne Handel leben.&lt;/br&gt;
+	In Deutschland nennen wir es &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://move-utopia.de/de/infos/tauschlogikwas&quot;&gt;Tausch-Logik-Frei&lt;/a&gt;&lt;/strong&gt;.&lt;/br&gt;
+	Jeder in diesen Gemeinschaften tut also, was er kann, gibt, was er hat, und bekommt, was er braucht.
 &lt;/p&gt;
-&lt;p class=&quot;lead&quot;&gt;
-	Hier in Deutschland nennt man soetwas &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://move-utopia.de/de/infos/tauschlogikwas&quot;&gt;Tausch-Logik-Frei&lt;/a&gt;&lt;/strong&gt; 
-	oder auch &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://de.wikipedia.org/wiki/Schenk%C3%B6konomie&quot;&gt;Schenk-Ökonomie&lt;/a&gt;&lt;/strong&gt;.
-&lt;/p&gt;"
+"
                     adminlabel: "Profit Donating"
                 }
             }

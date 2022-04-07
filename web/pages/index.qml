@@ -232,16 +232,12 @@ Content {
 &lt;p class=&quot;lead&quot;&gt;
 	The profit will not be payed out to anyone of our team instead it 
 	will be donated to projects that are willing to make this world 
-	a better place for us all.&lt;br/&gt;
-	One big goal is to create many &lt;a href=&quot;http://ubuntuplanet.org&quot;&gt;UBUNTU&lt;/a&gt; villages 
-	based on the ideas of &lt;strong&gt;Michael Tellinger&lt;/strong&gt; from South Afrika where 
-	people are working and living without the need to use money at all.
-	These kind of villages are self-sustained and are producing
-	everthing what the need on there own.
-	Nobody has to pay a for living nor does one have to pay for food.
-	Everything will be given to the people who are working in
-	this village for free. You only have to contribute your talents 
-	three hours a week to the community.
+	a better place for us all.&lt;br/&gt;&lt;/br&gt;
+	One big goal is to buyout land to be protected against speculations.&lt;/br&gt;
+	Errect tiny villages. Small viallages with tiny houses, geodesic domes, jurts and the like where our members can live for free.&lt;/br&gt;
+	The idea comes from the UBUNTU movement from south afrika, where the people live without money, without barter and without trading.&lt;/br&gt;
+	In Germany we call it Tausch-Logik-Frei (exchange logic free).&lt;/br&gt;
+	So everyone in those communities do what they can, give what they have and get what they need.
 &lt;/p&gt;"
                     adminlabel: "Profit Donating"
                 }
