@@ -37,10 +37,7 @@ Ganz schön umständlich als digitaler Nomade."
                 Markdown {
                     text: "# NURI
 
-Bei NURI kannst Du ein kostenloses Konto eröffnen, für das Du keinen Wohnsitz benötigst.  
-Ich brauchte lediglich meinen Reisepass dafür und musste eine Addresse angeben, wo die Karte hingeschickt wird.  
-Wenn Du über meinen persönlichen Link gehst, dann hilfst Du mir und Dir, da wir beide nach Deinem erstes Investment 30 € erhalten.   
-[NURI](https://app.nuri.com/r/84NE-AU9E)"
+Das Konto bei Nuri existiert nun leider auch nicht mehr, weil die anscheinend &lt;a target=&quot;_blank&quot; href=&quot;https://www.tagesschau.de/wirtschaft/finanzen/nuri-bank-fintech-insolvenz-101.html&quot;&gt;Konkurs&lt;/a&gt; gegegangen sind."
                 }
             }
 
