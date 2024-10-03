@@ -17,10 +17,10 @@ Content {
             text: "&lt;!-- PAGE TITLE --&gt;
 &lt;header id=&quot;page-title&quot;&gt;
 	&lt;div class=&quot;container&quot;&gt;
-		&lt;h1&gt;About &lt;strong&gt;Us&lt;/strong&gt;&lt;/h1&gt;
+		&lt;h1&gt;Our &lt;strong&gt;Projects&lt;/strong&gt;&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;About Me&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;Our Projects&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
 &lt;/header&gt;"
@@ -35,9 +35,9 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;&lt;strong&gt;About&lt;/strong&gt; CrowdWare&lt;/h1&gt;
+                    text: "&lt;h1&gt; Our &lt;strong&gt;Projects&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	CrowdWare is an assocition which has the goal to create individual, 
+	CrowdWare is a company which has the goal to create individual, 
 	user centered, open source soft- and hardware solutions and deliver it for 
 	free (software) or at least very cheap (hardware) to the crowd.
 &lt;/p&gt;
@@ -64,12 +64,11 @@ Content {
 						&lt;/figure&gt;
 						&lt;div class=&quot;item-box-desc&quot;&gt;
 							&lt;h4&gt;Olaf Japp&lt;/h4&gt;
-							&lt;small class=&quot;styleColor&quot;&gt;PRESIDENT&lt;/small&gt;
-							&lt;p&gt;This association was the brainchild of Olaf while he was studying Human Computer Interaction Design in Switzerland&lt;/p&gt;
+							&lt;small class=&quot;styleColor&quot;&gt;CEO&lt;/small&gt;
+							&lt;p&gt;This company was the brainchild of Olaf while he was studying Human Computer Interaction Design in Switzerland&lt;/p&gt;
 							&lt;div class=&quot;row socials&quot;&gt;
 								&lt;a href=&quot;http://facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a&gt;
-								&lt;a href=&quot;http://twitter.com/artanidos&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a&gt;
-								&lt;a href=&quot;http://plus.google.com/+OlafJapp&quot; class=&quot;social fa fa-google-plus&quot;&gt;&lt;/a&gt;
+				
 							&lt;/div&gt;
 						&lt;/div&gt;
 					&lt;/div&gt;

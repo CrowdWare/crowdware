@@ -17,10 +17,10 @@ Content {
             text: "&lt;!-- PAGE TITLE --&gt;
 &lt;header id=&quot;page-title&quot;&gt;
 	&lt;div class=&quot;container&quot;&gt;
-		&lt;h1&gt;Über &lt;strong&gt;Uns&lt;/strong&gt;&lt;/h1&gt;
+		&lt;h1&gt;Unsere &lt;strong&gt;Projekte&lt;/strong&gt;&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;Über Uns&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;Unsere Projekte&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
 &lt;/header&gt;"
@@ -35,9 +35,9 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;&lt;strong&gt;Über&lt;/strong&gt; CrowdWare&lt;/h1&gt;
+                    text: "&lt;h1&gt; Unsere &lt;strong&gt;Prokekte&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	CrowdWare ist ein Verein der das Ziel verfolgt, individuelle, Benutzer zentrierte, quelloffene Soft- und Hardware-Lösungen
+	CrowdWare ist eine Firma die das Ziel verfolgt, individuelle, Benutzer zentrierte, quelloffene Soft- und Hardware-Lösungen
 	auf den Markt zu bringen, die entweder kostenlos (Software) oder kostengünstig (Hardware) sind.
 &lt;/p&gt;
 &lt;div class=&quot;divider&quot;&gt;
@@ -63,12 +63,11 @@ Content {
 						&lt;/figure&gt;
 						&lt;div class=&quot;item-box-desc&quot;&gt;
 							&lt;h4&gt;Olaf Japp&lt;/h4&gt;
-							&lt;small class=&quot;styleColor&quot;&gt;PRÄSIDENT&lt;/small&gt;
-							&lt;p&gt;Die Idee für den Verein hatte Olaf als er &quot;Human Computer Interaction Design&quot; in der Schweiz studiert hat.&lt;/p&gt;
+							&lt;small class=&quot;styleColor&quot;&gt;Geschäftsführer&lt;/small&gt;
+							&lt;p&gt;Die Idee für die Firma hatte Olaf als er &quot;Human Computer Interaction Design&quot; in der Schweiz studiert hat.&lt;/p&gt;
 							&lt;div class=&quot;row socials&quot;&gt;
 								&lt;a href=&quot;http://facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a&gt;
-								&lt;a href=&quot;http://twitter.com/artanidos&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a&gt;
-								&lt;a href=&quot;http://plus.google.com/+OlafJapp&quot; class=&quot;social fa fa-google-plus&quot;&gt;&lt;/a&gt;
+				
 							&lt;/div&gt;
 						&lt;/div&gt;
 					&lt;/div&gt;

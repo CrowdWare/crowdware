@@ -36,28 +36,22 @@ Content {
                 Text {
                     text: "&lt;h1&gt;&lt;strong&gt;Impressum&lt;/strong&gt;&lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	CrowdWare&lt;/br&gt;
-	Ottensteiner Str. 8&lt;/br&gt;
-	3804 Allentsteig&lt;/br&gt;
-	Austria
+	CrowdWare UG (haftungsbeschränkt) i.G.&lt;/br&gt;
+	Braunsdorfer Str. 22&lt;/br&gt;
+	06886 Lutherstadt-Wittenberg&lt;/br&gt;
+	Germany&lt;/br&gt;&lt;/br&gt;
+	Telephon: +49 3491 6449633&lt;/br&gt;&lt;/br&gt;
+	Geschäftsführer: Olaf Japp&lt;/br&gt;
+	Handelsregister: Noch nicht eingetragen (i.G.)&lt;/br&gt;
+	USt-IdNr.: wird beantragt&lt;/br&gt;
 &lt;/p&gt;
-&lt;p&gt;
+&lt;p class=&quot;lead&quot;&gt;
 	Development and sale of Open Source Soft- and Hardware
 &lt;/p&gt;
-&lt;p&gt;
+&lt;p class=&quot;lead&quot;&gt;
 	Kontakt: &lt;a href=&quot;mailto:artanidos@crowdware.at&quot;&gt;artanidos@crowdware.at&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-	UID-Nr: pendent
-&lt;/p&gt;
-&lt;p&gt;
-	Bezirkshauptmannschaft Zwettl&lt;/br&gt;
-	ZVR: 1148150559
-&lt;/p&gt;
-&lt;p&gt;
-	Verbraucher haben die Möglichkeit, Beschwerden an die Online-Streitbelegungsplattform der EU zu richten: &lt;a target=&quot;_blank&quot; href=&quot;http://ec.europa.eu/odr&quot;&gt;http://ec.europa.eu/odr&lt;/a&gt;.
-	Sie können allfällige Beschwerde auch an die oben angegebene E-Mai-Adresse richten.
-&lt;/p&gt;
+
 
 &lt;h1&gt;Disclamer&lt;/h1&gt;
 &lt;h3&gt;1. Haftungsbeschränkung&lt;/h3&gt;
