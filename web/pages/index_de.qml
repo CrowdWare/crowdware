@@ -164,16 +164,25 @@ Content {
                 Text {
                     text: "&lt;h3 class=&quot;margin-top100&quot;&gt;&lt;strong&gt;Gewinne&lt;/strong&gt; werden gespendet&lt;/h3&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	Für den Fall das wir Gewinne mit Projekten machen, die über Crowdfunding finanziert wurden, dann werden
-	die Gewinne an niemanden aus unserem Team ausgezahlt, stattdessen werden sie in Projekte investiert, 
-	die diese Welt neu gestalten um sie zu einem besserer Ort für uns alle zu machen.&lt;br/&gt;&lt;/br&gt;
-	Ein großes Ziel ist es, Land aufzukaufen, um es vor Spekulationen zu schützen.&lt;/br&gt;
-	Dort sollen kleine Dörfer mit Tiny-Houses, geodätischen Domen, Jurten und dergleichen, entstehen, in denen unsere Mitglieder kostenlos wohnen können.&lt;/br&gt;
-	Die Idee stammt von der UBUNTU-Bewegung aus Südafrika, wo die Menschen ohne Geld, ohne Tausch und ohne Handel leben.&lt;/br&gt;
-	In Deutschland nennen wir es &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://move-utopia.de/de/infos/tauschlogikwas&quot;&gt;Tausch-Logik-Frei&lt;/a&gt;&lt;/strong&gt;.&lt;/br&gt;
-	Jeder in diesen Gemeinschaften tut also, was er kann, gibt, was er hat, und bekommt, was er braucht.
-&lt;/p&gt;
-"
+    Mit CrowdWare verfolgen wir das Ziel, Software unabhängig von bestehenden Strukturen kostenlos zu verteilen. 
+    Open Source spielt hierbei eine wichtige Rolle, da die Software auf diese Weise vor Patenten geschützt werden kann. 
+    Patente hindern die Weiterentwicklung und erheben Lizenzgebühren von den Endkunden, die nur dem Patentinhaber zugutekommen.&lt;br/&gt;&lt;br/&gt;
+
+    Unser Ziel mit CrowdWare ist es, eine nachhaltige Alternative in der Technologielandschaft zu schaffen, die ethische Praktiken und soziale Verantwortung priorisiert. 
+    Wir möchten ein Umfeld fördern, das Innovationen ermöglicht, ohne unsere Werte oder das Wohl der Gesellschaft zu gefährden.&lt;br/&gt;&lt;br/&gt;
+
+    &lt;b&gt;Um es positiv auszudrücken, wir möchten etwas Nachhaltiges und Gutes in die Welt bringen, inspiriert von Joseph Beuys&#x27; Konzept der &quot;sozialen Plastik,&quot; 
+    das uns allen Frieden und Freiheit beschert.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;
+
+    Für den Fall, dass wir Gewinne erzielen, werden diese Gewinne nicht an Personen innerhalb des Unternehmens ausgezahlt. 
+    Stattdessen werden sie in Projekte investiert, die darauf abzielen, diese Welt neu zu gestalten, um sie zu einem besseren Ort für uns alle zu machen.&lt;br/&gt;&lt;br/&gt;
+    
+    Ein großes Ziel ist es, Land aufzukaufen, um es vor Spekulationen zu schützen.&lt;br/&gt;
+    Dort sollen kleine Dörfer mit Tiny Houses, geodätischen Kuppeln, Jurten und ähnlichem entstehen, in denen Menschen kostenlos wohnen können.&lt;br/&gt;
+    Diese Idee stammt von der UBUNTU-Bewegung in Südafrika, wo die Menschen ohne Geld, ohne Tausch und ohne Handel leben.&lt;br/&gt;
+    In Deutschland nennen wir es &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://move-utopia.de/de/infos/tauschlogikwas&quot;&gt;Tausch-Logik-Frei&lt;/a&gt;&lt;/strong&gt;.&lt;br/&gt;
+    Jeder in diesen Gemeinschaften tut also, was er kann, gibt, was er hat, und bekommt, was er braucht.
+&lt;/p&gt;"
                     adminlabel: "Profit Donating"
                 }
             }

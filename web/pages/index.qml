@@ -158,16 +158,26 @@ Content {
                 span: 8
 
                 Text {
-                    text: "&lt;h3 class=&quot;margin-top100&quot;&gt;&lt;strong&gt;Profits&lt;/strong&gt; are being donated&lt;/h3&gt;
+                    text: "&lt;h3 class=&quot;margin-top100&quot;&gt;&lt;strong&gt;Profits&lt;/strong&gt; are donated&lt;/h3&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	In case we are making profit with crowdfunded projects then
-	this profit will not be payed out to anyone of our team instead it 
-	will be invested in projects that will make this world a better place for us all.&lt;br/&gt;&lt;/br&gt;
-	One big goal is to buyout land to be protected against speculations.&lt;/br&gt;
-	Errect tiny villages. Small viallages with tiny houses, geodesic domes, jurts and the like where our members can live for free.&lt;/br&gt;
-	The idea comes from the UBUNTU movement from south afrika, where the people live without money, without barter and without trading.&lt;/br&gt;
-	In Germany we call it Tausch-Logik-Frei (exchange logic free).&lt;/br&gt;
-	So everyone in those communities do what they can, give what they have and get what they need.
+    With CrowdWare, we aim to distribute software independently of existing structures and free of charge. 
+    Open source plays an important role here, as it allows the software to be protected from becoming patented. 
+    Patents hinder further development and impose licensing fees on end users that only benefit the patent holder.&lt;br/&gt;&lt;br/&gt;
+
+    Our goal with CrowdWare is to create a sustainable alternative in the tech landscape, prioritizing ethical practices and social responsibility. 
+    We want to foster an environment that encourages innovation without compromising our values or the well-being of society.&lt;br/&gt;&lt;br/&gt;
+
+    &lt;b&gt;To put it positively, we want to bring something sustainable and good into the world, inspired by Joseph Beuys&#x27; concept of &quot;social plastic,&quot; 
+    that grants us all peace and freedom.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;
+
+    In the event that we make profits, these profits will not be distributed to individuals within the company. 
+    Instead, they will be invested in projects that aim to reshape this world, making it a better place for all of us.&lt;br/&gt;&lt;br/&gt;
+    
+    A major goal is to purchase land to protect it from speculation.&lt;br/&gt;
+    There, small villages with tiny houses, geodesic domes, yurts, and similar structures will be established, where people can live for free.&lt;br/&gt;
+    This idea originates from the UBUNTU movement in South Africa, where people live without money, without trade, and without commerce.&lt;br/&gt;
+    In Germany, we call it &lt;strong&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://move-utopia.de/de/infos/tauschlogikwas&quot;&gt;Exchange-Logic-Free&lt;/a&gt;&lt;/strong&gt;.&lt;br/&gt;
+    Everyone in these communities does what they can, gives what they have, and receives what they need.
 &lt;/p&gt;"
                     adminlabel: "Profit Donating"
                 }
