@@ -82,26 +82,58 @@ Content {
 
                 Text {
                     text: "&lt;h3&gt;Some of our projects&lt;/h3&gt;
+
+&lt;ul class=&quot;nav nav-pills isotope-filter isotope-filter&quot; data-sort-id=&quot;isotope-list&quot; data-option-key=&quot;filter&quot;&gt;
+	&lt;li data-option-value=&quot;*&quot; class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Show all&lt;/a&gt;&lt;/li&gt;
+	&lt;li data-option-value=&quot;.2024&quot;&gt;&lt;a href=&quot;#&quot;&gt;2024&lt;/a&gt;&lt;/li&gt;
+	&lt;li data-option-value=&quot;.2023&quot;&gt;&lt;a href=&quot;#&quot;&gt;2023&lt;/a&gt;&lt;/li&gt;
+	&lt;li data-option-value=&quot;.2022&quot;&gt;&lt;a href=&quot;#&quot;&gt;2022&lt;/a&gt;&lt;/li&gt;
+	&lt;li data-option-value=&quot;.2020&quot;&gt;&lt;a href=&quot;#&quot;&gt;2020&lt;/a&gt;&lt;/li&gt;
+	&lt;li data-option-value=&quot;.2019&quot;&gt;&lt;a href=&quot;#&quot;&gt;2019&lt;/a&gt;&lt;/li&gt;
+	&lt;li data-option-value=&quot;.2017&quot;&gt;&lt;a href=&quot;#&quot;&gt;2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class=&quot;row&quot;&gt;
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 1 --&gt;
+	&lt;ul class=&quot;sort-destination isotope&quot; data-sort-id=&quot;isotope-list&quot;&gt;
 
-		&lt;div class=&quot;item-box&quot;&gt;
-			&lt;figure&gt;
-				&lt;a class=&quot;item-hover&quot; href=&quot;http://shift.crowdware.at&quot;&gt;
-					&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
-					&lt;span class=&quot;inner&quot;&gt;
-						&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
-						&lt;strong&gt;PROJECT&lt;/strong&gt; DETAIL
-					&lt;/span&gt;
-				&lt;/a&gt;
-				&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/shift.png&quot; width=&quot;260&quot; height=&quot;260&quot; alt=&quot;&quot;&gt;
-			&lt;/figure&gt;
-			&lt;div class=&quot;item-box-desc&quot;&gt;
-				&lt;h4&gt;Shift&lt;/h4&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;2023&lt;/small&gt;
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2024&quot;&gt;
+			&lt;div class=&quot;item-box&quot;&gt;
+				&lt;figure&gt;
+					&lt;a class=&quot;item-hover&quot; href=&quot;http://nocode.crowdware.at&quot;&gt;
+						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
+						&lt;span class=&quot;inner&quot;&gt;
+							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
+							&lt;strong&gt;PROJECT&lt;/strong&gt; DETAIL
+						&lt;/span&gt;
+					&lt;/a&gt;
+					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/nocode.png&quot; width=&quot;260&quot; height=&quot;260&quot; alt=&quot;&quot;&gt;
+				&lt;/figure&gt;
+				&lt;div class=&quot;item-box-desc&quot;&gt;
+					&lt;h4&gt;NoCode&lt;/h4&gt;
+					&lt;small class=&quot;styleColor&quot;&gt;2024&lt;/small&gt;
+				&lt;/div&gt;
 			&lt;/div&gt;
-		&lt;/div&gt;
+		&lt;/li&gt;
 
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2023&quot;&gt;
+			&lt;div class=&quot;item-box&quot;&gt;
+				&lt;figure&gt;
+					&lt;a class=&quot;item-hover&quot; href=&quot;http://shift.crowdware.at&quot;&gt;
+						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
+						&lt;span class=&quot;inner&quot;&gt;
+							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
+							&lt;strong&gt;PROJECT&lt;/strong&gt; DETAIL
+						&lt;/span&gt;
+					&lt;/a&gt;
+					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/shift.png&quot; width=&quot;260&quot; height=&quot;260&quot; alt=&quot;&quot;&gt;
+				&lt;/figure&gt;
+				&lt;div class=&quot;item-box-desc&quot;&gt;
+					&lt;h4&gt;Shift&lt;/h4&gt;
+					&lt;small class=&quot;styleColor&quot;&gt;2023&lt;/small&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/li&gt;
+
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2022&quot;&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
 				&lt;a class=&quot;item-hover&quot; href=&quot;https://unsere-verfassung.de&quot;&gt;
@@ -118,6 +150,9 @@ Content {
 				&lt;small class=&quot;styleColor&quot;&gt;2022&lt;/small&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
+		&lt;/li&gt;
+
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2022&quot;&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
 				&lt;a class=&quot;item-hover&quot; href=&quot;https://github.com/CrowdWare/Atman&quot;&gt;
@@ -134,8 +169,9 @@ Content {
 				&lt;small class=&quot;styleColor&quot;&gt;2022&lt;/small&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 2 --&gt;
+		&lt;/li&gt;
+
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2022&quot;&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
 
@@ -153,8 +189,9 @@ Content {
 				&lt;small class=&quot;styleColor&quot;&gt;2022&lt;/small&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 3 --&gt;
+		&lt;/li&gt;
+
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2020&quot;&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
 				&lt;a class=&quot;item-hover&quot; href=&quot;https://artanidos.github.io/THX/&quot;&gt;
@@ -171,9 +208,9 @@ Content {
 				&lt;small class=&quot;styleColor&quot;&gt;2020&lt;/small&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
-	&lt;/div&gt;
+		&lt;/li&gt;
 
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 4 --&gt;
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2019&quot;&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
 				&lt;a class=&quot;item-hover&quot; href=&quot;https://ebc.crowdware.at&quot;&gt;
@@ -190,10 +227,9 @@ Content {
 				&lt;small class=&quot;styleColor&quot;&gt;2019&lt;/small&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
-	&lt;/div&gt;
+		&lt;/li&gt;
 
-	
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 5 --&gt;
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2017&quot;&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
 				&lt;a class=&quot;item-hover&quot; href=&quot;https://artanidos.github.io/AnimationMaker/&quot;&gt;
@@ -210,9 +246,9 @@ Content {
 				&lt;small class=&quot;styleColor&quot;&gt;2017&lt;/small&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
-	&lt;/div&gt;
+		&lt;/li&gt;
 
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 6 --&gt;
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2017&quot;&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
 				&lt;a class=&quot;item-hover&quot; href=&quot;https://fsb.crowdware.at&quot;&gt;
@@ -229,28 +265,12 @@ Content {
 				&lt;small class=&quot;styleColor&quot;&gt;2017&lt;/small&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
-	&lt;/div&gt;
+		&lt;/li&gt;
 
-	&lt;div class=&quot;col-md-4&quot;&gt;&lt;!-- item 7 --&gt;
-		&lt;div class=&quot;item-box&quot;&gt;
-			&lt;figure&gt;
-				&lt;a class=&quot;item-hover&quot; href=&quot;https://crowdware.github.io/nrg/&quot;&gt;
-					&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
-					&lt;span class=&quot;inner&quot;&gt;
-						&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
-						&lt;strong&gt;PROJECT&lt;/strong&gt; DETAIL
-					&lt;/span&gt;
-				&lt;/a&gt;
-				&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/nrg.png&quot; width=&quot;260&quot; height=&quot;260&quot; alt=&quot;&quot;&gt;
-			&lt;/figure&gt;
-			&lt;div class=&quot;item-box-desc&quot;&gt;
-				&lt;h4&gt;NRG-Exchange&lt;/h4&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;2017&lt;/small&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
 
-&lt;/div&gt;"
+	&lt;/ul&gt;
+&lt;/div&gt;
+"
                 }
             }
         }
