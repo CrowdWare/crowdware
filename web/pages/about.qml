@@ -95,6 +95,7 @@ Content {
 &lt;div class=&quot;row&quot;&gt;
 	&lt;ul class=&quot;sort-destination isotope&quot; data-sort-id=&quot;isotope-list&quot;&gt;
 
+
 		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2024&quot;&gt;
 			&lt;div class=&quot;item-box&quot;&gt;
 				&lt;figure&gt;
@@ -113,6 +114,7 @@ Content {
 				&lt;/div&gt;
 			&lt;/div&gt;
 		&lt;/li&gt;
+
 
 		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2023&quot;&gt;
 			&lt;div class=&quot;item-box&quot;&gt;
@@ -229,6 +231,8 @@ Content {
 		&lt;/div&gt;
 		&lt;/li&gt;
 
+
+
 		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2017&quot;&gt;
 		&lt;div class=&quot;item-box&quot;&gt;
 			&lt;figure&gt;
@@ -267,6 +271,24 @@ Content {
 		&lt;/div&gt;
 		&lt;/li&gt;
 
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 2017&quot;&gt;
+			&lt;div class=&quot;item-box&quot;&gt;
+				&lt;figure&gt;
+					&lt;a class=&quot;item-hover&quot; href=&quot;https://crowdware.github.io/nrg/&quot;&gt;
+						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
+						&lt;span class=&quot;inner&quot;&gt;
+							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
+							&lt;strong&gt;PROJECT&lt;/strong&gt; DETAIL
+						&lt;/span&gt;
+					&lt;/a&gt;
+					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/nrg.png&quot; width=&quot;260&quot; height=&quot;260&quot; alt=&quot;&quot;&gt;
+				&lt;/figure&gt;
+				&lt;div class=&quot;item-box-desc&quot;&gt;
+					&lt;h4&gt;NRG Exchange&lt;/h4&gt;
+					&lt;small class=&quot;styleColor&quot;&gt;2017&lt;/small&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/li&gt;
 
 	&lt;/ul&gt;
 &lt;/div&gt;
