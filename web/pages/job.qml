@@ -18,10 +18,10 @@ Content {
             text: "&lt;!-- PAGE TITLE --&gt;
 &lt;header id=&quot;page-title&quot;&gt;
 	&lt;div class=&quot;container&quot;&gt;
-		&lt;h1&gt;&lt;strong&gt;Stellenangebot&lt;/strong&gt;&lt;/h1&gt;
+		&lt;h1&gt;&lt;strong&gt;Job Opening&lt;/strong&gt;&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;Stellenangebot&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;Job Opening&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
 &lt;/header&gt;"
